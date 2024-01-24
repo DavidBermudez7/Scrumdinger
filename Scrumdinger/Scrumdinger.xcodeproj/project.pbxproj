@@ -53,8 +53,8 @@
 		63F294E22B616FF400F26656 /* Scrumdinger */ = {
 			isa = PBXGroup;
 			children = (
-				63F294F62B61759200F26656 /* Models */,
 				63F294E32B616FF400F26656 /* ScrumdingerApp.swift */,
+				63F294F62B61759200F26656 /* Models */,
 				63F294E52B616FF400F26656 /* MeetingView.swift */,
 				63F294E72B616FF600F26656 /* Assets.xcassets */,
 				63F294E92B616FF600F26656 /* Preview Content */,
